@@ -21,4 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 
 <img src = "https://user-images.githubusercontent.com/120082183/220703118-87256106-f1d4-4a72-8b21-c05cdddd1c34.png"  height="50%"width="50%">
 
-<\p>
+<p/>
